@@ -58,8 +58,8 @@ export default function Kenya() {
               <MoreVertIcon />
             </IconButton>
           }
-          title="About Kenya"
-          subheader="Member East African Community"
+           subheader="Member East African Community"
+                  title="About Kenya"
         />
         <CardMedia
           component="img"
